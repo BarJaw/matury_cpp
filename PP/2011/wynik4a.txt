@@ -1,2 +1,0 @@
-Liczba haseł o nieparzystej liczbie znaków: 95
-Liczba haseł o parzystej liczbie znaków: 105
