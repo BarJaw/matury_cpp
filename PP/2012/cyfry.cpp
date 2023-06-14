@@ -67,14 +67,8 @@ int main() {
     zadanie4 << "c)\n";
     for(auto line : lines) {
         if (is_ascending(line)) zadanie4 << line + "\n";
-        line = "1111111";
     }
     zadanie4.close();
-
-    for (auto& line : lines) {
-        cout << line << "\n";
-    }
-
     
     return 0;
 }
