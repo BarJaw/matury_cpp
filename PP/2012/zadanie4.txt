@@ -1,0 +1,8 @@
+a) Liczb parzystych jest 495
+b) Liczba o najwiekszej sumie cyfr 187869866
+Liczba o najmniejszej sumie cyfr 10010
+c)
+2389
+23567
+123456789
+3468
