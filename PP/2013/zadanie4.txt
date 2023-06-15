@@ -1,0 +1,20 @@
+a) Liczba napisow o parzystej długości: 504
+b) Liczba napisow o rownej liczbie zer i jedynek 110
+c) Liczba napisow skladajacych sie z samych zer 32
+Liczba napisow skladajacych sie z samych jedynek 50
+d)
+napisy 2-znakowe: 43
+napisy 3-znakowe: 38
+napisy 4-znakowe: 37
+napisy 5-znakowe: 57
+napisy 6-znakowe: 53
+napisy 7-znakowe: 68
+napisy 8-znakowe: 78
+napisy 9-znakowe: 103
+napisy 10-znakowe: 83
+napisy 11-znakowe: 90
+napisy 12-znakowe: 86
+napisy 13-znakowe: 81
+napisy 14-znakowe: 68
+napisy 15-znakowe: 59
+napisy 16-znakowe: 56
