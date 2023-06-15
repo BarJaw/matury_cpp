@@ -69,6 +69,6 @@ int main() {
         if (is_ascending(line)) zadanie4 << line + "\n";
     }
     zadanie4.close();
-    
+
     return 0;
 }
